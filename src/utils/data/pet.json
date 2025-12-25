@@ -1,0 +1,18 @@
+{
+  "id": 10,
+  "name": "doggie",
+  "category": {
+    "id": 1,
+    "name": "Dogs"
+  },
+  "photoUrls": [
+    "https://petstore3.swagger.io/resources/photos/623389095.jpg"
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "tag"
+    }
+  ],
+  "status": "available"
+}
